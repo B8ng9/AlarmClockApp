@@ -1,0 +1,56 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+*.hprof
+*.class
+
+# IDE specific
+.idea/
+*.iml
+*.ipr
+*.iws
+*.project
+*.classpath
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Build output directories
+/build/
+*/build/
+out/
+bin/
+
+# Maven specific
+target/
+*.log
+
+# Gradle specific
+.gradle/
+build/
+
+# Eclipse specific
+.metadata/
+.bin/
+*.tmp
+*.bak
+*.swp
+
+# IntelliJ specific
+out/
+.idea/
+*.iws
+*.iml
+
+# Other
+*.jar
+*.war
+*.ear
+*.class
+*.log
